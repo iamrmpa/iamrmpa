@@ -1,4 +1,4 @@
-- **👋 Hi, I’m @yelle04**
+- **👋 Hi, I’m Yoonrie**
 - **👀 I’m interested in:** Web development, web design, UI/UX
 - **🌱 I’m currently learning:**  Web development, web design, UI/UX
 - **💞️ I’m looking to collaborate on:** Developing codes for my thesis website
