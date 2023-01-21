@@ -4,7 +4,7 @@
 - **💞️ I’m looking to collaborate on:** Developing codes for my thesis website and/or discord bot development
 - **📫 How to reach me:** [@iamyoonrie](https://twitter.com/iamyoonrie)
 
--  **⌨ I want to create/design/develop as of the moment:** Discord bots
+-  **⌨ I want to create/design/develop as of the moment:** Discord bots with pointing system, attendance, currency, leveling up system, etc.
 
 <!---
 yelle04/yelle04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
